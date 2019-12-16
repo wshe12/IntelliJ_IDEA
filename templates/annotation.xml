@@ -1,0 +1,12 @@
+<templateSet group="annotation">
+  <template name="*" value="* &#10; * $VAR1$ &#10; * &lt;br/&gt;&#10; $params$&#10; * @return $returns$ &#10; * @date $date$ $time$&#10; */" description="有参注释" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {result+=' * @param ' + params[i] + '\\t' + ((i &lt; params.size() - 1) ? '\\n' : '')}; return result&quot;, methodParameters())" defaultValue="" alwaysStopAt="true" />
+    <variable name="returns" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

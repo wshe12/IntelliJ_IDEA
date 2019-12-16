@@ -1,0 +1,112 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="D:/Program Files/nodejs/node.exe" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="58-63-75-255,,,79-86-102-255,,,98-106-126-255,,,109-118-140-255,,,177-176-176-255,,,85-96-108-255,,,73-195-16-255,,,94-252-20-255,,,92-99-112-255,,,255-255-255-255,,,187-187-187-255,,,199-237-204-255,,,37-122-147-255,,,0-209-0-255,,,0-154-0-255,,,11-128-28-255,,,252-58-47-255,,,35-39-252-255,,,0-0-0-255,,,230-186-171-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.63113606" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.SavedEditorTheme" value="Visual Studio Theme" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.15243903" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.1614205" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.19267823" />
+    <property name="FrameworksFinderRecursivePanel[3]" value="0.23894863" />
+    <property name="FrameworksFinderRecursivePanel[4]" value="0.3144654" />
+    <property name="INSPECTION_FILTER_HISTORY" value="Serialization&#10;General" />
+    <property name="InstalledPluginsSearchHistory" value="JProfiler&#10;UI De&#10;GsonFormat&#10;Key promoter" />
+    <property name="JUnit.Splitter.Proportion" value="0.12303486" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="JavaeeViewModulesPanel[0]" value="0.1367989" />
+    <property name="JavaeeViewModulesPanel[1]" value="0.15860428" />
+    <property name="KEYMAP" value="f&#10;file&#10;Fin&#10;E&#10;basic" />
+    <property name="LAST_INJECTED_LANGUAGE" value="MySQL" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="LiveContextsPanel[0]" value="0.13937283" />
+    <property name="LiveContextsPanel[1]" value="0.17078489" />
+    <property name="LiveContextsPanel[2]" value="0.17035775" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="SettingsSearchHistory" value="nspections&#10;maven&#10;mav&#10;font&#10;Sensitive" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SplitFileEditor.Proportion" value="0.7088388" />
+    <property name="SpringBeansModulesPanel[0]" value="0.13661203" />
+    <property name="SpringMvcModulesPanel[0]" value="0.1367989" />
+    <property name="SpringRepositoriesModulesPanel[0]" value="0.1367989" />
+    <property name="SpringRepositoriesModulesPanel[1]" value="0.15860428" />
+    <property name="SpringRepository[0]" value="0.1367989" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TrendingPluginsSearchHistory" value="MyBatis Log Plugin&#10;mybatis&#10;JProfiler&#10;Gen&#10;JRebel" />
+    <property name="annotationStr" value="lombok" />
+    <property name="arrayFromData" value="false" />
+    <property name="arrayFromData1" value="false" />
+    <property name="arrayFromData1Str" value="    public  static java.util.List&lt;$ClassName$&gt; array$ClassName$FromData(String str,String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;            java.lang.reflect.Type listType=new com.google.gson.reflect.TypeToken&lt;java.util.ArrayList&lt;$ClassName$&gt;&gt;(){}.getType();&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),listType);&#10;&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return new java.util.ArrayList();&#10;&#10;&#10;    }" />
+    <property name="cn.yiiguxing.plugin.translate.version" value="2.3.2" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.docker.view.DockerViewContribution.0" value="300" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.remoteServer.impl.runtime.ui.DefaultRemoteServersViewContribution.0" value="300" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="entityPackName" value="com.tuhu.rescue.core.request.qidian." />
+    <property name="errorCount" value="2" />
+    <property name="evlsprt.183" value="16a529a79e2" />
+    <property name="evlsprt2.183" value="16a055b25c9" />
+    <property name="evlsprt3.183" value="15" />
+    <property name="fieldPrivateMode" value="true" />
+    <property name="file.chooser.recent.files" value="D:/JavaCode/tuhu-road-rescue&#10;D:/JavaCoreDemo/javaDemo/tuhu-yw-trade-monitor&#10;D:/JavaCoreDemo/WMS.StorageCenterService/wms-storagecenter-storageservice&#10;D:/JavaCode/tuhu-rescue-major-customer&#10;D:/JavaCoreDemo/dubbo-admin&#10;D:/JavaCode/tuhu-rescue-major-customer-open-api&#10;D:/JavaCoreDemo/purchase-spring-cloud-demo&#10;D:/JavaCoreDemo/eurekaservice&#10;D:/JavaCoreDemo/javaDemo&#10;D:/Program Files/jprofiler11/bin/jprofiler.exe&#10;D:/JavaCoreDemo/winfrom2/HtmlDemo&#10;D:/JavaCode/tuhu-rescue-technician&#10;D:/JavaCoreDemo/openapi-demo-java&#10;D:/JavaCoreDemo/springClouddemo&#10;D:/JavaCode/tuhu-rescue-report&#10;C:/Program Files/Java/jdk1.8.0_181&#10;D:/JavaCoreDemo/winfrom&#10;D:/JavaCoreDemo&#10;D:/JavaCoreDemo/tuhu-spring-cloud-api-shop-finance&#10;D:/JavaCode/tuhu-resuce-technician&#10;D:/JavaCode/tuhu-resuct-technician&#10;D:/data&#10;D:/JavaCoreDemo/tuhu-boot-starter-common&#10;D:/JavaCoreDemo/javaDemo/rescue-major-customer-open&#10;D:/JavaCoreDemo/javaDemo/tuhu-spring-cloud-api-major-customer-open&#10;D:/JavaCode/tuhu-rescue-major-customer-open&#10;D:/JavaCode/tuhu-spring-cloud-api-rescue-major-customer-open-api&#10;D:/JavaCoreDemo/tuhu-xxl-job-demo&#10;D:/JavaCode/dispatch-order&#10;D:/JavaCoreDemo/open.1688-1-java" />
+    <property name="file.gist.reindex.count" value="17239" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="filedNamePreFixStr" value="" />
+    <property name="generateComments" value="true" />
+    <property name="generate_all_setter_count_notify" value="4" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="kotlin.lastUpdateCheck" value="1557294746295" />
+    <property name="lastTip" value="156" />
+    <property name="objectFromData" value="false" />
+    <property name="objectFromData1" value="false" />
+    <property name="objectFromDataStr" value="    public  static $ClassName$ objectFromData(String str){&#10;&#10;        return new com.google.gson.Gson().fromJson(str,$ClassName$.class);&#10;    }" />
+    <property name="objectFromDataStr1" value="    public  static $ClassName$ objectFromData(String str, String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),$ClassName$.class);&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return null;&#10;    }" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="" />
+    <property name="plugins.preselection.path" value="D:/Program Files" />
+    <property name="project.wizard.group" value="SpringInitializr" />
+    <property name="project.wizard.template" value="Spring Initializr" />
+    <property name="reuseEntity" value="false" />
+    <property name="selected.color.option.type" value="IDENTIFIER_UNDER_CARET_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.JSPX" value="Wrapping" />
+    <property name="settings.code.style.selected.tab.SQL" value="Case" />
+    <property name="splitGenerate" value="true" />
+    <property name="spring.initializr.service.url.history" value="https://start.spring.io/" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="suffixStr" value="Bean" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="useFieldNamePrefix" value="false" />
+    <property name="useSerializedName" value="false" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.38059703" />
+    <property name="virgoMode" value="true" />
+  </component>
+  <component name="com.a.a.i.a.a.J" enableSqlConsole="false" />
+</application>
