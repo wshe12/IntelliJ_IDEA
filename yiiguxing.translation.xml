@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Local variable 'wcfResultResponse' is redundant" />
       <item value="method" />
       <item value="Boxed value is unboxed and then immediately reboxed A boxed value is unboxed and then immediately reboxed." />
       <item value="Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed Disconnected from the target VM, address: '127.0.0.1:63512', transport: 'socket' Process finished with exit code 1" />
