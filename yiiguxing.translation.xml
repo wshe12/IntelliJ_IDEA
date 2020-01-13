@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subtract" />
       <item value="Local variable 'wcfResultResponse' is redundant" />
       <item value="method" />
       <item value="Boxed value is unboxed and then immediately reboxed A boxed value is unboxed and then immediately reboxed." />
@@ -19,7 +20,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
+        <entry key="CHINESE" value="28" />
         <entry key="ENGLISH" value="20" />
         <entry key="CHINESE_TRADITIONAL" value="4" />
       </map>
