@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="score" />
       <item value="subtract" />
       <item value="Local variable 'wcfResultResponse' is redundant" />
       <item value="method" />
