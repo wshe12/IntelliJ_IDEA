@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Not updating application delta as another thread is updating it already" />
       <item value="score" />
       <item value="subtract" />
       <item value="Local variable 'wcfResultResponse' is redundant" />
