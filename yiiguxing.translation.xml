@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="produces" />
+      <item value="consumes " />
       <item value="Not updating application delta as another thread is updating it already" />
       <item value="score" />
       <item value="subtract" />
