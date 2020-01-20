@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subtract" />
       <item value="produces" />
       <item value="consumes " />
       <item value="Not updating application delta as another thread is updating it already" />
       <item value="score" />
-      <item value="subtract" />
       <item value="Local variable 'wcfResultResponse' is redundant" />
       <item value="method" />
       <item value="Boxed value is unboxed and then immediately reboxed A boxed value is unboxed and then immediately reboxed." />
