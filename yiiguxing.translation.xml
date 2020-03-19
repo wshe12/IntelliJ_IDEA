@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="接单" />
+      <item value="Accepted" />
       <item value="空闲" />
       <item value="Dispatch" />
       <item value="subtract" />
@@ -27,7 +29,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="ENGLISH" value="25" />
         <entry key="CHINESE_TRADITIONAL" value="4" />
       </map>
     </option>
