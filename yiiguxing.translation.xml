@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="级别" />
+      <item value="等级" />
       <item value="有效期" />
       <item value="接单" />
       <item value="Accepted" />
@@ -30,7 +32,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="ENGLISH" value="27" />
         <entry key="CHINESE_TRADITIONAL" value="4" />
       </map>
     </option>
