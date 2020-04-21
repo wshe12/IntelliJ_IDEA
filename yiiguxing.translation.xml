@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="赔偿金额" />
+      <item value="quantum" />
       <item value="级别" />
       <item value="等级" />
       <item value="有效期" />
@@ -32,7 +34,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="ENGLISH" value="28" />
         <entry key="CHINESE_TRADITIONAL" value="4" />
       </map>
     </option>
